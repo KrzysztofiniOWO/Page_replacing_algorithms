@@ -1,0 +1,4 @@
+Average of missing pages FIFO frame: 7 - 54.92
+Average of missing pages LRU frame: 7 - 54.92
+Standard deviation of missing pages FIFO frame: 7 - 4.698414843414354
+Standard deviation of missing pages LRU frame: 7 - 4.698414843414354
